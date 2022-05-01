@@ -6,15 +6,15 @@
 
 * Streamlit dropdown:
 
-![streamlit_dropdown]](http://url/to/img.png)
+![streamlit_dropdown]](https://github.com/madut97/Module-18-Challenge/blob/main/streamlit_dropdown.png)
 
 * Streamlit application page:
 
-![application_page]](http://url/to/img.png)
+![application_page]](https://github.com/madut97/Module-18-Challenge/blob/main/application_page.png)
 
 * Chain validation:
 
-![chain_validation]](http://url/to/img.png)
+![chain_validation]](https://github.com/madut97/Module-18-Challenge/blob/main/chain_validation.png)
 
 ---
 
